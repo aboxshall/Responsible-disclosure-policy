@@ -6,6 +6,9 @@ The policy needs to be adapted depending on your organizations needs. Change the
 <p>
 If you would like to see what other organizations include on their policies, Bugcrowd has compiled a public <a href="https://bugcrowd.com/list-of-bug-bounty-programs/" target="_blank">list of policies</a>.
 </p>
+<p>
+Or if your organization is still deciding whether or not to have a responsible disclosure policy, <a target="_blank" href="https://ab-dev.net/company-responsible-disclosure-policy/">this article</a> could be helpful. 
+</p>
 
 ======================
 

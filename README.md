@@ -10,7 +10,7 @@ If you would like to see what other organizations include on their policies, Bug
 </p>
 
 <p>
-Or if your organization is still deciding whether or not to have a responsible disclosure policy, <a href="https://ab-dev.net/company-responsible-disclosure-policy/">this article</a> could be helpful. 
+Or if your organization is still deciding whether or not to have a responsible disclosure policy, <a target="_blank" href="https://ab-dev.net/company-responsible-disclosure-policy/">this article</a> could be helpful. 
 </p>
 
 
