@@ -1,5 +1,3 @@
-```html
-
 <p>This policy is an adaptation of Floor Tera's policy which can be found <a href="http://www.responsibledisclosure.nl/en/" target="_blank">here</a>.</p>
 <p>
 The policy needs to be adapted depending on your organizations needs. Change the text highlighted <span style="color: red;">red</span> when appropriate.
