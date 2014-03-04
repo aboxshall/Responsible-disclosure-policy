@@ -18,3 +18,4 @@ Or if your organization is still deciding whether or not to have a responsible d
 
 <p> Readable version: https://github.com/aboxshall/Responsible-disclosure-policy/blob/master/POLICY.md </p>
 <p> HTML version (changes are highlighted in red): https://github.com/aboxshall/Responsible-disclosure-policy/blob/master/security.html </p>
+<p> Original version: https://ab-dev.net/responsible-disclosure-policy-template</p>
