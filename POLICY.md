@@ -1,7 +1,7 @@
 <h2>Responsible disclosure policy template</h2>
 
 <p>
-The policy needs to be adapted depending on your organizations needs. Change the text wrapped in '{ }'' when appropriate.
+The policy needs to be adapted depending on your organizations needs. Change the text wrapped in '{ }' when appropriate.
 </p>
 ======================
 
